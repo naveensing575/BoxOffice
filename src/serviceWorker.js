@@ -20,6 +20,7 @@ const isLocalhost = Boolean(
     )
 );
 
+
 function registerValidSW(swUrl, config) {
   navigator.serviceWorker
     .register(swUrl)
