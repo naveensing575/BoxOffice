@@ -16,6 +16,7 @@
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
     "arrow-body-style":[0],
-    "prefer-arrow-callback":[0]
+    "prefer-arrow-callback":[0],
+    "react/jsx-one-expression-per-line": "off"
   }
 }
